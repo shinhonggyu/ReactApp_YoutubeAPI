@@ -13,7 +13,7 @@ const App = () => {
     }
 
     fetch(
-      `https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${query}&key=AIzaSyDtzj05zAZTTUARhlC5dGLlyWKCwNNRpvQ`,
+      `https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=40&q=${query}&key=AIzaSyDtzj05zAZTTUARhlC5dGLlyWKCwNNRpvQ`,
       requestOptions
     )
       .then((response) => response.json())

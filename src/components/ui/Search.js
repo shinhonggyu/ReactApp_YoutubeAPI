@@ -15,7 +15,7 @@ const Search = ({ onSearch }) => {
 
   return (
     <section className='search'>
-      <form>
+      <div>
         <input
           ref={inputRef}
           type='text'
@@ -23,7 +23,7 @@ const Search = ({ onSearch }) => {
           placeholder='Search...'
           onKeyPress={onKeyPress}
         />
-      </form>
+      </div>
     </section>
   )
 }
