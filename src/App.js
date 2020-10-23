@@ -6,6 +6,8 @@ import './App.css'
 
 const App = () => {
   const [items, setItems] = useState([])
+  const [isLoading, setIsLoading] = useState(true)
+
   const search = (query) => {
     const requestOptions = {
       method: 'GET',
@@ -18,6 +20,7 @@ const App = () => {
     )
       .then((response) => response.json())
       .then((result) => setItems(result.items))
+      .then(() => setIsLoading(false))
       .catch((error) => console.log('error', error))
   }
 
@@ -33,6 +36,7 @@ const App = () => {
     )
       .then((response) => response.json())
       .then((result) => setItems(result.items))
+      .then(() => setIsLoading(false))
       .catch((error) => console.log('error', error))
   }, [])
 
@@ -40,7 +44,7 @@ const App = () => {
     <div className='container'>
       <Header />
       <Search onSearch={search} />
-      <CharacterGrid items={items} />
+      <CharacterGrid items={items} isLoading={isLoading} />
     </div>
   )
 }

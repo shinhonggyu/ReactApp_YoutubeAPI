@@ -22,6 +22,7 @@ const Search = ({ onSearch }) => {
           className='form-control'
           placeholder='Search...'
           onKeyPress={onKeyPress}
+          autoFocus
         />
       </div>
     </section>
