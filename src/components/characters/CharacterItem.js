@@ -1,8 +1,8 @@
 import React from 'react'
 
-const CharacterItem = ({ item }) => {
+const CharacterItem = ({ item, onVideoClick }) => {
   return (
-    <div className='card'>
+    <div className='card' onClick={() => onVideoClick(item)}>
       <div className='card-inner'>
         <div className='card-front'>
           <img src={item.snippet.thumbnails.high.url} alt='' />

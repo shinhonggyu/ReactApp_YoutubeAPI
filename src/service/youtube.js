@@ -14,7 +14,6 @@ class Youtube {
     )
     const result = await response.json()
     return result.items
-    // .then(() => setIsLoading(false))
   }
 
   async search(query) {
