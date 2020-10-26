@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "674787b43ad6469e78eec630b80eab1e",
+    "revision": "d8bf0d66490c04e1f4d7f1daae2f9a58",
     "url": "/ReactApp_YoutubeAPI_PostCSS/index.html"
   },
   {
-    "revision": "72deddcf56ef6321af9c",
-    "url": "/ReactApp_YoutubeAPI_PostCSS/static/css/main.7d5c4248.chunk.css"
+    "revision": "79e3124698ee441125b5",
+    "url": "/ReactApp_YoutubeAPI_PostCSS/static/css/main.8321cc68.chunk.css"
   },
   {
-    "revision": "99fda67f337303101c7e",
-    "url": "/ReactApp_YoutubeAPI_PostCSS/static/js/2.114f35aa.chunk.js"
+    "revision": "7d224d4a77d25a863b40",
+    "url": "/ReactApp_YoutubeAPI_PostCSS/static/js/2.e10b247f.chunk.js"
   },
   {
-    "revision": "f5fc2afae58c4ffc30c6148864765d4b",
-    "url": "/ReactApp_YoutubeAPI_PostCSS/static/js/2.114f35aa.chunk.js.LICENSE.txt"
+    "revision": "ae5bbace2be4b236ddab3854dc56f2e6",
+    "url": "/ReactApp_YoutubeAPI_PostCSS/static/js/2.e10b247f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "72deddcf56ef6321af9c",
-    "url": "/ReactApp_YoutubeAPI_PostCSS/static/js/main.d55f2fa2.chunk.js"
+    "revision": "79e3124698ee441125b5",
+    "url": "/ReactApp_YoutubeAPI_PostCSS/static/js/main.b1ce46c8.chunk.js"
   },
   {
     "revision": "a7745b24830898387af5",

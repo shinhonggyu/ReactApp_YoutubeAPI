@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ReactApp_YoutubeAPI_PostCSS/static/css/main.7d5c4248.chunk.css",
-    "main.js": "/ReactApp_YoutubeAPI_PostCSS/static/js/main.d55f2fa2.chunk.js",
-    "main.js.map": "/ReactApp_YoutubeAPI_PostCSS/static/js/main.d55f2fa2.chunk.js.map",
+    "main.css": "/ReactApp_YoutubeAPI_PostCSS/static/css/main.8321cc68.chunk.css",
+    "main.js": "/ReactApp_YoutubeAPI_PostCSS/static/js/main.b1ce46c8.chunk.js",
+    "main.js.map": "/ReactApp_YoutubeAPI_PostCSS/static/js/main.b1ce46c8.chunk.js.map",
     "runtime-main.js": "/ReactApp_YoutubeAPI_PostCSS/static/js/runtime-main.073008fb.js",
     "runtime-main.js.map": "/ReactApp_YoutubeAPI_PostCSS/static/js/runtime-main.073008fb.js.map",
-    "static/js/2.114f35aa.chunk.js": "/ReactApp_YoutubeAPI_PostCSS/static/js/2.114f35aa.chunk.js",
-    "static/js/2.114f35aa.chunk.js.map": "/ReactApp_YoutubeAPI_PostCSS/static/js/2.114f35aa.chunk.js.map",
+    "static/js/2.e10b247f.chunk.js": "/ReactApp_YoutubeAPI_PostCSS/static/js/2.e10b247f.chunk.js",
+    "static/js/2.e10b247f.chunk.js.map": "/ReactApp_YoutubeAPI_PostCSS/static/js/2.e10b247f.chunk.js.map",
     "index.html": "/ReactApp_YoutubeAPI_PostCSS/index.html",
-    "precache-manifest.f4981517a3c39a51832903dcdb043330.js": "/ReactApp_YoutubeAPI_PostCSS/precache-manifest.f4981517a3c39a51832903dcdb043330.js",
+    "precache-manifest.5a8980fc3fdc6d44d09f4ec3ff3545fa.js": "/ReactApp_YoutubeAPI_PostCSS/precache-manifest.5a8980fc3fdc6d44d09f4ec3ff3545fa.js",
     "service-worker.js": "/ReactApp_YoutubeAPI_PostCSS/service-worker.js",
-    "static/css/main.7d5c4248.chunk.css.map": "/ReactApp_YoutubeAPI_PostCSS/static/css/main.7d5c4248.chunk.css.map",
-    "static/js/2.114f35aa.chunk.js.LICENSE.txt": "/ReactApp_YoutubeAPI_PostCSS/static/js/2.114f35aa.chunk.js.LICENSE.txt",
+    "static/css/main.8321cc68.chunk.css.map": "/ReactApp_YoutubeAPI_PostCSS/static/css/main.8321cc68.chunk.css.map",
+    "static/js/2.e10b247f.chunk.js.LICENSE.txt": "/ReactApp_YoutubeAPI_PostCSS/static/js/2.e10b247f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ReactApp_YoutubeAPI_PostCSS/static/media/bg.1be2d3a0.jpg",
     "static/media/spinner.gif": "/ReactApp_YoutubeAPI_PostCSS/static/media/spinner.235b9b3e.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.073008fb.js",
-    "static/js/2.114f35aa.chunk.js",
-    "static/css/main.7d5c4248.chunk.css",
-    "static/js/main.d55f2fa2.chunk.js"
+    "static/js/2.e10b247f.chunk.js",
+    "static/css/main.8321cc68.chunk.css",
+    "static/js/main.b1ce46c8.chunk.js"
   ]
 }
