@@ -18,7 +18,10 @@ const App = ({ youtube }) => {
   const search = (query) => {
     youtube
       .search(query) //
-      .then((items) => setItems(items))
+      .then((items) => {
+        setItems(items)
+        setSelectedVideo(null)
+      })
   }
 
   useEffect(() => {
